@@ -1,2 +1,6 @@
 # ThingSpeak
 ThingSpeak IoT platform API collection in PhP
+
+
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)][Get data from a private channel](https://matlab.mathworks.com/open/github/v1?repo=thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak&file=analysis/Template_private_channel.m)<br>
+[Get data from a public channel](https://matlab.mathworks.com/open/github/v1?repo=thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak&file=analysis/Template_public_channel.m)<br>
